@@ -1,0 +1,21 @@
+{
+    "full_name": "金田　悠太郎",
+    "name": "金田",
+    "current_role": "産婦人科医師",
+    "location": "東京",
+    "email": "your.email@example.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "産婦人科医師",
+      "AIエンジニア",
+      "第一産業社　経営者"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "medical",
+        "institution": "東京慈恵会医科大学",
+        "year": "2018"
+      }
+    ]
+  }
